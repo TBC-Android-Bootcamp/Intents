@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentsHomework</string>
+    <string name="your_address">Your Address</string>
+    <string name="age">Age</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="user_name">User Name</string>
+    <string name="choose_address">Choose Address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="add_address">Add Address</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="address">Address</string>
+    <string name="profile">Profile</string>
+</resources>
